@@ -10,7 +10,7 @@ def key_for_min_value(name_hash)
   end
   i = 0
   j = 0
-  min = 0
+  min_ = 0
   out = true
   while i < value.length
     while j < value.length
